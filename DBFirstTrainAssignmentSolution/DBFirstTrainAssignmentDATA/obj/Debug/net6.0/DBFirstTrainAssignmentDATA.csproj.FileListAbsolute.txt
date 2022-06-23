@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\bin\Debug\net6.0\DBFirstTrainAssignmentDATA.deps.json
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\bin\Debug\net6.0\DBFirstTrainAssignmentDATA.runtimeconfig.json
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\bin\Debug\net6.0\DBFirstTrainAssignmentDATA.dll
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\bin\Debug\net6.0\ref\DBFirstTrainAssignmentDATA.dll
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\bin\Debug\net6.0\DBFirstTrainAssignmentDATA.pdb
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\obj\Debug\net6.0\DBFirstTrainAssignmentDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\obj\Debug\net6.0\DBFirstTrainAssignmentDATA.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\obj\Debug\net6.0\DBFirstTrainAssignmentDATA.AssemblyInfo.cs
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\obj\Debug\net6.0\DBFirstTrainAssignmentDATA.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\obj\Debug\net6.0\DBFirstTrainAssignmentDATA.dll
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\obj\Debug\net6.0\ref\DBFirstTrainAssignmentDATA.dll
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\obj\Debug\net6.0\DBFirstTrainAssignmentDATA.pdb
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\obj\Debug\net6.0\DBFirstTrainAssignmentDATA.genruntimeconfig.cache
+C:\Users\hp\source\repos\C#taining\DBFirstTrainAssignmentSolution\DBFirstTrainAssignmentDATA\obj\Debug\net6.0\DBFirstTrainAssignmentDATA.csproj.AssemblyReference.cache

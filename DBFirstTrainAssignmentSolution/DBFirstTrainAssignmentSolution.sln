@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBFirstTrainAssignmentDATA", "DBFirstTrainAssignmentDATA\DBFirstTrainAssignmentDATA.csproj", "{61197CBA-4F27-4EE1-B179-D6752B441A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBFirstTrainAssignmentConsoleApp", "DBFirstTrainAssignmentConsoleApp\DBFirstTrainAssignmentConsoleApp.csproj", "{FFA4EAB4-6EAA-4589-B927-92D85E615414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61197CBA-4F27-4EE1-B179-D6752B441A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61197CBA-4F27-4EE1-B179-D6752B441A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61197CBA-4F27-4EE1-B179-D6752B441A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61197CBA-4F27-4EE1-B179-D6752B441A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA4EAB4-6EAA-4589-B927-92D85E615414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA4EAB4-6EAA-4589-B927-92D85E615414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA4EAB4-6EAA-4589-B927-92D85E615414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA4EAB4-6EAA-4589-B927-92D85E615414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C45D3E-69ED-41AD-BE23-74F8876F133E}
+	EndGlobalSection
+EndGlobal
